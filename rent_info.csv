@@ -6,17 +6,16 @@ haymarket,S909/178 Thomas Street HAYMARKET NSW 2000,,2,2,1
 haymarket,Level 33/2 Quay  Street HAYMARKET NSW 2000,920,2,2,1
 haymarket,S16.10/178 Thomas Street Street HAYMARKET NSW 2000,990,2,2,1
 haymarket,N905/33 Ultimo Road HAYMARKET NSW 2000,790,1,1,1
-haymarket,1708/2 Quay Street HAYMARKET NSW 2000,1000,2,2,1
-haymarket,1601/6 Little Hay Street HAYMARKET NSW 2000,760,1,1,
 haymarket,178 Thomas st HAYMARKET NSW 2000,,2,2,
+haymarket,6  Little Hay Street HAYMARKET NSW 2000,,1,1,
 haymarket,HAYMARKET NSW 2000,1450,2,2,1
-haymarket,2311/2 Quay street HAYMARKET NSW 2000,1200,2,2,1
+haymarket,1708/2 Quay Street HAYMARKET NSW 2000,1000,2,2,1
 haymarket,1 Steam Mill Lane HAYMARKET NSW 2000,1000,2,2,1
 haymarket,416 Pitt HAYMARKET NSW 2000,1000,2,2,
 haymarket,2011/53 Tumbalong Boulevard HAYMARKET NSW 2000,990,2,2,1
 haymarket,2043/53 Tumbalong Boulevard HAYMARKET NSW 2000,850,1,1,1
+haymarket,1601/6 Little Hay Street HAYMARKET NSW 2000,760,1,1,
 haymarket,803/6 Little Hay Street HAYMARKET NSW 2000,750,1,1,
-haymarket,6  Little Hay Street HAYMARKET NSW 2000,740,1,1,
 haymarket,L26/91 Liverpool Street HAYMARKET NSW 2000,720,1,1,1
 haymarket,2022/53 Tumbalong Boulevard HAYMARKET NSW 2000,720,1,1,
 haymarket,Lv 15/6 Little Hay St HAYMARKET NSW 2000,710,1,1,
@@ -25,6 +24,7 @@ haymarket,2706/2 Quay Street HAYMARKET NSW 2000,600,1,1,
 haymarket,2 Quay Street HAYMARKET NSW 2000,580,1,1,
 haymarket,107 Quay St  Haymarket  New South Wales  Australia Street HAYMARKET NSW 2000,570,1,1,
 haymarket,Carspace 178 Thomas Street HAYMARKET NSW 2000,100,,,2
+haymarket,2311/2 Quay street HAYMARKET NSW 2000,1200,2,2,1
 haymarket,N1206/33 Ultimo Road HAYMARKET NSW 2000,780,1,1,1
 haymarket,N8.09/33 ULTIMO ROAD HAYMARKET NSW 2000,715,1,1,
 haymarket,N1509/33 Ultimo Rd HAYMARKET NSW 2000,695,1,1,
@@ -33,11 +33,11 @@ burwood,316 Parramatta Road BURWOOD NSW 2134,620,2,2,1
 burwood,28 Waimea Street BURWOOD NSW 2134,595,3,2,1
 burwood,43/18-22 Victoria Street BURWOOD NSW 2134,,2,1,1
 burwood,19/33 Wilga Street BURWOOD NSW 2134,580,2,2,1
-burwood,54 Stanley Street BURWOOD NSW 2134,520,2,1,
 burwood,9 Norwood  Street BURWOOD NSW 2134,,4,1,1
 burwood,18/28A-32 Belmore Street BURWOOD NSW 2134,,2,2,1
 burwood,21/22-24 Park Ave BURWOOD NSW 2134,580,2,1,
 burwood,3/41 Railway Crescent BURWOOD NSW 2134,,2,1,1
+burwood,54 Stanley Street BURWOOD NSW 2134,520,2,1,
 burwood,14 Wyalong Street BURWOOD NSW 2134,240,,1,
 burwood,17/25 Waimea Street BURWOOD NSW 2134,330,1,1,
 burwood,7/25 Waimea Street BURWOOD NSW 2134,330,1,1,
@@ -65,8 +65,8 @@ burwood,4F/42 Meryla st BURWOOD NSW 2134,760,2,2,2
 burwood,4g/42 Meryla ST BURWOOD NSW 2134,750,2,2,1
 burwood,602/1-3 Elizabeth Street BURWOOD NSW 2134,,2,2,1
 burwood,3B/42-44 Meryla Street BURWOOD NSW 2134,,2,2,1
-burwood,5E/42-44 Meryla Street BURWOOD NSW 2134,,2,2,1
 burwood,1E/42-44 Meryla Street BURWOOD NSW 2134,,2,2,1
+burwood,5E/42-44 Meryla Street BURWOOD NSW 2134,,2,2,1
 burwood,6-8 Stanley  Street BURWOOD NSW 2134,730,2,2,1
 burwood,1G/42 Meryla ST BURWOOD NSW 2134,720,2,2,1
 burwood,702/3-7 Burwood Road BURWOOD NSW 2134,700,2,2,1
@@ -156,9 +156,9 @@ waterloo,58 O'dea Ave WATERLOO NSW 2017,570,1,1,
 waterloo,15 Potter Street WATERLOO NSW 2017,,1,1,
 waterloo,407/8 Sam Sing Street WATERLOO NSW 2017,750,1,1,1
 waterloo,D105/10 Lachlan Street WATERLOO NSW 2017,750,2,2,1
+waterloo,A209/34-38 McEvoy St WATERLOO NSW 2017,530,1,1,
 waterloo,23/11A Lachlan Street WATERLOO NSW 2017,500,2,1,1
 waterloo,B404/780 Bourke Street WATERLOO NSW 2017,1195,3,2,2
-waterloo,5/237 Cope Street WATERLOO NSW 2017,1000,3,2,1
 waterloo,691 Elizabeth Street WATERLOO NSW 2017,960,3,2,2
 waterloo,2/662 Elizabeth Street WATERLOO NSW 2017,950,2,2,1
 waterloo,104/9 Archibald  Avenue WATERLOO NSW 2017,895,2,2,
@@ -167,10 +167,10 @@ waterloo,31a/356-368 George St WATERLOO NSW 2017,850,2,1,
 waterloo,142/804 Bourke Street WATERLOO NSW 2017,,3,2,2
 waterloo,1x/92 Cope Street WATERLOO NSW 2017,,3,2,1
 waterloo,AG03/810 Elizabeth Street WATERLOO NSW 2017,795,2,2,
+waterloo,75/15 Potter Street WATERLOO NSW 2017,750,2,2,1
 waterloo,348/9 Crystal Street WATERLOO NSW 2017,750,2,2,1
 waterloo,735/4 Lachlan Street WATERLOO NSW 2017,750,2,2,1
 waterloo,11 Potter St WATERLOO NSW 2017,750,2,2,1
-waterloo,1203/6 Lachlan Street WATERLOO NSW 2017,740,2,2,1
 waterloo,19/6 Archibald Avenue WATERLOO NSW 2017,740,2,1,1
 waterloo,269/9 Crystal Street WATERLOO NSW 2017,720,2,2,1
 waterloo,891 South Dowling St WATERLOO NSW 2017,720,2,2,
@@ -189,9 +189,9 @@ waterloo,D405/1-11 Hunter Street WATERLOO NSW 2017,570,1,1,1
 waterloo,419/7 Crescent Street WATERLOO NSW 2017,570,1,1,1
 waterloo,205/169-175 Phillip Street WATERLOO NSW 2017,560,1,1,
 waterloo,236/806 Bourke Street WATERLOO NSW 2017,550,1,1,
-waterloo,209/806 Bourke Street WATERLOO NSW 2017,545,1,1,
 waterloo,19/834 Bourke Street WATERLOO NSW 2017,,1,1,
 waterloo,293/9 Crystal Street WATERLOO NSW 2017,550,1,1,
+waterloo,209/806 Bourke Street WATERLOO NSW 2017,540,1,1,
 waterloo,52 Beaumont  Street WATERLOO NSW 2017,525,,1,
 waterloo,27/1 Thread Lane WATERLOO NSW 2017,,1,1,
 waterloo,266 Pitt Street WATERLOO NSW 2017,490,1,1,
@@ -200,10 +200,10 @@ waterloo,332/4 Lachlan Street WATERLOO NSW 2017,650,1,1,
 waterloo,101/762-768 Elizabeth Street WATERLOO NSW 2017,620,1,1,1
 waterloo,526/7 Potter Street WATERLOO NSW 2017,570,1,1,
 waterloo,205/11 Potter Street WATERLOO NSW 2017,,3,2,1
+waterloo,5/237 Cope Street WATERLOO NSW 2017,1000,3,2,1
 waterloo,C205/NO.1 Lachlan street WATERLOO NSW 2017,,2,2,1
 waterloo,4.29/2 Allen Street WATERLOO NSW 2017,865,2,2,2
 waterloo,313/8 Sam Sing  Street WATERLOO NSW 2017,825,2,2,1
-waterloo,75/15 Potter Street WATERLOO NSW 2017,750,2,2,1
 waterloo,F803/7 Hunter Street WATERLOO NSW 2017,585,1,1,1
 waterloo,7/52-54 McEvoy Street WATERLOO NSW 2017,,1,1,1
 waterloo,G1/762-768 Elizabeth Street WATERLOO NSW 2017,540,1,1,
@@ -225,8 +225,8 @@ kingsford,Room A/16 See St KINGSFORD NSW 2032,320,1,1,
 kingsford,65 Tunstall Ave KINGSFORD NSW 2032,1300,4,2,3
 kingsford,82 Barker Street KINGSFORD NSW 2032,1100,4,2,
 kingsford,12a Borrodale Road KINGSFORD NSW 2032,1000,3,3,2
-kingsford,U/43-45 Meeks Street KINGSFORD NSW 2032,900,3,2,1
 kingsford,3/81 Middle Street KINGSFORD NSW 2032,850,3,2,1
+kingsford,U/43-45 Meeks Street KINGSFORD NSW 2032,,3,2,1
 kingsford,122 Barker Street KINGSFORD NSW 2032,,2,1,1
 kingsford,42 Harbourne Road KINGSFORD NSW 2032,790,2,2,1
 kingsford,8B/333 Anzac Parade KINGSFORD NSW 2032,780,2,2,1
@@ -327,7 +327,6 @@ strathfield,20/1 Clarence Street STRATHFIELD NSW 2135,575,2,2,1
 strathfield,6/76 The Boulevard STRATHFIELD NSW 2135,550,2,1,1
 strathfield,101/23 Churchill Avenue STRATHFIELD NSW 2135,520,1,1,1
 strathfield,12/34 Russell  Street STRATHFIELD NSW 2135,470,2,1,
-strathfield,12/427 Liverpool Road STRATHFIELD NSW 2135,450,2,1,1
 strathfield,20/10-12 Roberts Street STRATHFIELD NSW 2135,400,,1,
 strathfield,36/10-12 Roberts Road STRATHFIELD NSW 2135,400,,1,1
 strathfield,65 Oxford Road STRATHFIELD NSW 2135,1100,6,3,2
@@ -381,6 +380,7 @@ strathfield,1/20 Homebush  Road STRATHFIELD NSW 2135,490,1,1,1
 strathfield,16/84 Albert Road STRATHFIELD NSW 2135,450,1,1,1
 strathfield,7/493 Liverpool Road STRATHFIELD NSW 2135,450,2,1,1
 strathfield,132 Wallis Avenue STRATHFIELD NSW 2135,450,2,1,1
+strathfield,12/427 Liverpool Road STRATHFIELD NSW 2135,450,2,1,1
 strathfield,80/1 Clarence Street STRATHFIELD NSW 2135,440,1,1,1
 strathfield,8/1 Homebush Road STRATHFIELD NSW 2135,410,1,1,
 strathfield,5/30a Cooper Street STRATHFIELD NSW 2135,410,1,1,
@@ -388,7 +388,6 @@ strathfield,10-12 Roberts Street STRATHFIELD NSW 2135,400,1,1,
 strathfield,10/10-12 Roberts Road STRATHFIELD NSW 2135,400,,1,
 strathfield,2/8 SWAN AVENUE STRATHFIELD NSW 2135,390,1,1,
 strathfield,1/158 Wentworth Road STRATHFIELD NSW 2135,330,1,1,
-strathfield,23/14 Jersey Road STRATHFIELD NSW 2135,300,,1,
 strathfield,4/14 Jersey Road STRATHFIELD NSW 2135,280,,1,
 strathfield,4/21 Albert Road STRATHFIELD NSW 2135,30,,1,1
 strathfield,454-458 Liverpool  Road STRATHFIELD NSW 2135,700,3,2,2
@@ -400,6 +399,7 @@ strathfield,108/549-557 Liverpool Road STRATHFIELD NSW 2135,550,2,2,1
 strathfield,G01/549-557 Liverpool Road STRATHFIELD NSW 2135,550,2,2,1
 strathfield,2/493 Liverpool Road STRATHFIELD NSW 2135,420,2,1,1
 strathfield,6 Everton Road STRATHFIELD NSW 2135,310,,1,
+strathfield,23/14 Jersey Road STRATHFIELD NSW 2135,300,,1,
 strathfield,3/4 Everton Road STRATHFIELD NSW 2135,,1,1,1
 strathfield,66/9 Hilts  Road STRATHFIELD NSW 2135,40,,1,1
 strathfield,65/9 Hilts  Road STRATHFIELD NSW 2135,40,,1,1
@@ -456,7 +456,6 @@ rhodes,Level 4  406/16 Sevier Avenue RHODES NSW 2138,700,2,2,1
 rhodes,1105/7 Rider Boulevard RHODES NSW 2138,700,2,2,1
 rhodes,751/2 Marquet  Street RHODES NSW 2138,690,2,2,1
 rhodes,Level 6/80 Rider Boulevard RHODES NSW 2138,690,2,2,1
-rhodes,407/63 Shoreline Drive RHODES NSW 2138,680,2,1,1
 rhodes,30/2 Nina Grey Ave RHODES NSW 2138,680,2,2,1
 rhodes,502/76 Rider Blvd RHODES NSW 2138,,2,2,1
 rhodes,509/46 Walker Street RHODES NSW 2138,,2,1,1
@@ -497,6 +496,7 @@ rhodes,10 CAVELL AVENUE RHODES NSW 2138,410,2,1,2
 rhodes,L2/10-16 Marquet St RHODES NSW 2138,,3,2,2
 rhodes,183/4 Timbrol Avenue RHODES NSW 2138,680,2,2,2
 rhodes,205/16 Sevier Avenue RHODES NSW 2138,690,2,2,1
+rhodes,407/63 Shoreline Drive RHODES NSW 2138,680,2,1,1
 rhodes,620/89 Shoreline Drive RHODES NSW 2138,665,2,2,1
 rhodes,1607/63 Shoreline Drive RHODES NSW 2138,640,2,1,1
 rhodes,326/60 Walker Street RHODES NSW 2138,620,2,2,1
@@ -552,6 +552,7 @@ parramatta,201/13-15 Hassall Street PARRAMATTA NSW 2150,610,2,2,1
 parramatta,32/7 Aird Street PARRAMATTA NSW 2150,600,2,2,1
 parramatta,18/7 Aird st PARRAMATTA NSW 2150,600,2,2,1
 parramatta,25/26-30 Hassall Street PARRAMATTA NSW 2150,590,2,2,1
+parramatta,1025 45 Macquarie Street PARRAMATTA NSW 2150,580,1,1,1
 parramatta,19/109-113 George Street PARRAMATTA NSW 2150,570,2,2,1
 parramatta,8/109-113 George Street PARRAMATTA NSW 2150,570,2,2,1
 parramatta,Unit 604/354-366 Church Street PARRAMATTA NSW 2150,565,1,1,1
@@ -559,7 +560,6 @@ parramatta,330 Church Street PARRAMATTA NSW 2150,550,1,1,
 parramatta,2BED+STUDY/1A Morton Street PARRAMATTA NSW 2150,520,2,2,1
 parramatta,3/1 Macquarie Street PARRAMATTA NSW 2150,500,2,2,1
 parramatta,205/22 Great Western Highway PARRAMATTA NSW 2150,495,2,1,1
-parramatta,22/24 Campbell Street PARRAMATTA NSW 2150,470,2,2,1
 parramatta,7206/1a Morton Street PARRAMATTA NSW 2150,460,1,1,1
 parramatta,22/3-5 Marsden Street PARRAMATTA NSW 2150,440,2,1,1
 parramatta,4/31-33 Meehan Street PARRAMATTA NSW 2150,420,2,1,1
@@ -657,6 +657,7 @@ parramatta,13/5 Good Street PARRAMATTA NSW 2150,,2,1,1
 parramatta,102/8 River Road West  Parramatta PARRAMATTA NSW 2150,475,1,1,1
 parramatta,29/27 Campbell Street PARRAMATTA NSW 2150,470,2,1,
 parramatta,4/33 Campbell Street PARRAMATTA NSW 2150,470,2,1,1
+parramatta,22/24 Campbell Street PARRAMATTA NSW 2150,470,2,2,1
 parramatta,1/1 Good Street PARRAMATTA NSW 2150,470,3,1,1
 parramatta,402/6 River Road West  Parramatta PARRAMATTA NSW 2150,470,1,1,1
 parramatta,908/36 Cowper St PARRAMATTA NSW 2150,470,1,1,1
@@ -707,11 +708,9 @@ parramatta,12A Dixon Street PARRAMATTA NSW 2150,250,1,1,
 parramatta,2D Bourke PARRAMATTA NSW 2150,170,1,1,
 parramatta,17 Sorrell Street PARRAMATTA NSW 2150,,1,1,
 parramatta,10/47-49 Sorrell Street PARRAMATTA NSW 2150,20,,,1
-parramatta,1025 45 Macquarie Street PARRAMATTA NSW 2150,580,1,1,1
 parramatta,1A Morton Street PARRAMATTA NSW 2150,470,2,2,1
 parramatta,15 Queens Avenue PARRAMATTA NSW 2150,420,2,1,1
 parramatta,28/22 Great Western Highway PARRAMATTA NSW 2150,380,1,1,
-parramatta,22 Great Western Highway PARRAMATTA NSW 2150,325,1,1,1
 parramatta,110-114 James Ruse Drive PARRAMATTA NSW 2150,8401,1,1,1
 parramatta,18 Bobart St PARRAMATTA NSW 2150,660,3,2,1
 parramatta,1 Gould Place PARRAMATTA NSW 2150,630,4,2,2
@@ -727,17 +726,19 @@ parramatta,4/89 Great Western  Highway PARRAMATTA NSW 2150,420,2,1,1
 parramatta,11/65 Marsden Street PARRAMATTA NSW 2150,420,2,1,1
 parramatta,3 Broughton street PARRAMATTA NSW 2150,390,1,1,
 parramatta,8a Oaks Street PARRAMATTA NSW 2150,380,1,1,1
+parramatta,22 Great Western Highway PARRAMATTA NSW 2150,325,1,1,1
 parramatta,21-23  Cowper St PARRAMATTA NSW 2150,280,1,,1
 zetland,1008/28 Ebsworth Street ZETLAND NSW 2017,1300,3,2,1
 zetland,23 Gadigal  Avenue ZETLAND NSW 2017,665,1,1,1
 zetland,501/2 Victoria Park Parade ZETLAND NSW 2017,750,2,2,1
 zetland,50/6A Defries Avenue ZETLAND NSW 2017,590,1,1,
-zetland,84 Epsom Road ZETLAND NSW 2017,830,2,2,1
 zetland,926/2B Defries  Avenue ZETLAND NSW 2017,1250,3,2,2
 zetland,14 Defries Ave ZETLAND NSW 2017,1200,3,2,1
 zetland,3 Naulty Place ZETLAND NSW 2017,1180,3,2,2
 zetland,15/6 Wolseley Grove ZETLAND NSW 2017,1150,2,2,1
 zetland,2708/98 Joynton  Avenue ZETLAND NSW 2017,850,2,2,1
+zetland,31/3 Victoria Park Parade ZETLAND NSW 2017,850,2,2,1
+zetland,84 Epsom Road ZETLAND NSW 2017,830,2,2,1
 zetland,14 Defries Ave ZETLAND NSW 2017,810,2,2,1
 zetland,14 Defries Ave ZETLAND NSW 2017,750,2,2,
 zetland,4/9 Grandstand Parade ZETLAND NSW 2017,725,2,1,
@@ -753,8 +754,8 @@ zetland,519/2 Ascot Ave ZETLAND NSW 2017,560,1,1,
 zetland,14 Defries Ave ZETLAND NSW 2017,540,1,1,
 zetland,3 Naulty Place ZETLAND NSW 2017,530,1,1,
 zetland,119/2 Kirby Wk ZETLAND NSW 2017,600,1,1,1
-zetland,15 Joynton Avenue ZETLAND NSW 2017,910,2,2,1
 zetland,40/3 Defries Avenue ZETLAND NSW 2017,830,2,2,1
+zetland,LVL1/39-47 Mentmore Avenue Rosebery ZETLAND NSW 2017,,3,2,1
 zetland,99/22-24 Gadigal Avenue ZETLAND NSW 2017,2000,3,2,2
 zetland,LV1/19 Joynton Ave ZETLAND NSW 2017,1490,3,2,1
 zetland,B1104/1 Link Road ZETLAND NSW 2017,,3,3,2
@@ -763,8 +764,8 @@ zetland,16/6 Wolseley Grove ZETLAND NSW 2017,1150,2,2,1
 zetland,83/22 Gadigal Ave ZETLAND NSW 2017,1100,3,2,2
 zetland,3/106 Joynton Avenue ZETLAND NSW 2017,,2,2,1
 zetland,49/30 Gadigal Avenue ZETLAND NSW 2017,1050,3,2,2
-zetland,LVL1/39-47 Mentmore Avenue Rosebery ZETLAND NSW 2017,1000,3,2,1
 zetland,C501/1-5 Link Road ZETLAND NSW 2017,,3,2,1
+zetland,15 Joynton Avenue ZETLAND NSW 2017,910,2,2,1
 zetland,15 Joynton Avenue ZETLAND NSW 2017,910,2,2,1
 zetland,704/3 George Julius Avenue ZETLAND NSW 2017,850,2,2,1
 zetland,1112/5 O'dea Avenue ZETLAND NSW 2017,850,2,2,1
@@ -774,6 +775,8 @@ zetland,44/22 Gadigal Avenue ZETLAND NSW 2017,,2,2,1
 zetland,1  Link Road ZETLAND NSW 2017,,2,2,1
 zetland,136 Epsom Rd ZETLAND NSW 2017,800,2,2,1
 zetland,B1004/1 Link Road ZETLAND NSW 2017,,2,2,1
+zetland,LVL 2/39-49 Mentmore Avenue Rosebery ZETLAND NSW 2017,800,2,2,1
+zetland,2.03/1-5 Link Street ZETLAND NSW 2017,800,2,2,1
 zetland,1-5 Link Road ZETLAND NSW 2017,780,2,2,1
 zetland,98/3 Defries Avenue ZETLAND NSW 2017,,2,2,1
 zetland,57/22 Gadigal  Avenue ZETLAND NSW 2017,,2,2,1
@@ -792,11 +795,9 @@ zetland,512/6 Ascot Ave ZETLAND NSW 2017,550,1,1,
 zetland,219/1 Hutchison Walk ZETLAND NSW 2017,,1,1,
 zetland,6/6 Wolseley Grove ZETLAND NSW 2017,,,1,
 zetland,326/5 Defries Avenue ZETLAND NSW 2017,500,1,1,
-zetland,2.03/1-5 Link Street ZETLAND NSW 2017,800,2,2,1
 zetland,B905/1 Link Road ZETLAND NSW 2017,,3,2,1
 zetland,71/22 Gadigal Ave ZETLAND NSW 2017,1100,3,2,2
 zetland,710/20 Gadigal Ave ZETLAND NSW 2017,,2,2,1
-zetland,31/3 Victoria Park Parade ZETLAND NSW 2017,850,2,2,1
 zetland,355/92 Epsom Road ZETLAND NSW 2017,830,2,2,1
 zetland,B 604/1-5 Link Rd ZETLAND NSW 2017,820,2,2,1
 zetland,6.02/1-5 Link Road ZETLAND NSW 2017,800,2,2,1
@@ -838,7 +839,6 @@ epping,A205/29-31 Forest Grove EPPING NSW 2121,,2,2,1
 epping,A105/27-31 Forest Grove EPPING NSW 2121,21,2,2,1
 epping,A102/27-31 Forest Grove EPPING NSW 2121,,2,2,1
 epping,A209/16-22 Carlingford  Road EPPING NSW 2121,580,2,2,1
-epping,209/47 Ryde Street EPPING NSW 2121,560,2,1,1
 epping,12/18 Edensor Street EPPING NSW 2121,550,3,1,1
 epping,3/12-14 Carlingford Road EPPING NSW 2121,550,1,1,1
 epping,8/20 Bridge  Street EPPING NSW 2121,530,2,1,1
@@ -904,6 +904,7 @@ epping,B31/23 Ray Road EPPING NSW 2121,590,2,2,1
 epping,111/3 Ferntree Place EPPING NSW 2121,590,2,2,1
 epping,31  Forest Grove EPPING NSW 2121,,2,2,1
 epping,EPPING NSW 2121,,2,2,1
+epping,209/47 Ryde Street EPPING NSW 2121,560,2,1,1
 epping,32/11 Epping Park Drive EPPING NSW 2121,560,2,2,1
 epping,121 carlingford road EPPING NSW 2121,,3,1,2
 epping,78/42-50 CLIFF Rd EPPING NSW 2121,,2,2,2
@@ -974,7 +975,6 @@ auburn,32 - 40 Kerr Parade AUBURN NSW 2144,590,2,2,2
 auburn,1/37A Karrabah Road AUBURN NSW 2144,370,2,1,1
 auburn,6/45 Macquarie Road AUBURN NSW 2144,390,2,1,1
 auburn,57/27-29 Mary Street AUBURN NSW 2144,690,3,2,2
-auburn,5 Belgium Street AUBURN NSW 2144,650,4,2,
 auburn,6-14 Park Road AUBURN NSW 2144,650,2,2,2
 auburn,21 Coachwood Street AUBURN NSW 2144,600,3,2,2
 auburn,32/27-29 Mary Street AUBURN NSW 2144,590,2,2,1
@@ -993,6 +993,7 @@ auburn,37 Cornwall Road AUBURN NSW 2144,900,7,3,1
 auburn,19/1 Harrow Road AUBURN NSW 2144,750,3,1,
 auburn,42/18 Cockthorpe Road AUBURN NSW 2144,720,4,3,2
 auburn,13 Stanhope Street AUBURN NSW 2144,650,4,2,3
+auburn,5 Belgium Street AUBURN NSW 2144,650,4,2,
 auburn,12 Sheffield Street AUBURN NSW 2144,650,3,1,1
 auburn,8/3 St Johns Avenue AUBURN NSW 2144,630,3,2,1
 auburn,27 Elm Road AUBURN NSW 2144,620,4,1,1
@@ -1061,13 +1062,13 @@ marsfield,3/146 Culloden Road MARSFIELD NSW 2122,550,2,1,1
 marsfield,38/205 Waterloo Road MARSFIELD NSW 2122,520,3,1,1
 marsfield,4/130 Crimea Road MARSFIELD NSW 2122,490,2,1,1
 marsfield,29A Dan Street MARSFIELD NSW 2122,1025,4,3,2
-marsfield,42 Culloden Road MARSFIELD NSW 2122,750,3,2,1
 marsfield,59/1-5 Busaco Road MARSFIELD NSW 2122,600,2,2,1
 marsfield,209 Waterloo Road MARSFIELD NSW 2122,430,2,1,1
 marsfield,5/13 Busaco Road MARSFIELD NSW 2122,600,3,1,1
 marsfield,15/2 Shipway St MARSFIELD NSW 2122,,2,1,1
 marsfield,8 Julie Street MARSFIELD NSW 2122,800,3,2,3
 marsfield,78a Culloden Road MARSFIELD NSW 2122,,4,2,1
+marsfield,42 Culloden Road MARSFIELD NSW 2122,750,3,2,1
 marsfield,1 Dan Street MARSFIELD NSW 2122,660,4,2,1
 marsfield,11/102 Herring Road MARSFIELD NSW 2122,660,3,2,2
 marsfield,4/188 Waterloo Road MARSFIELD NSW 2122,650,2,2,2
@@ -1141,7 +1142,6 @@ chatswood,G1601/438 Victoria Avenue CHATSWOOD NSW 2067,835,2,2,1
 chatswood,Level 1  x/544 Pacific  Highway CHATSWOOD NSW 2067,800,2,2,1
 chatswood,617/2A Help Street CHATSWOOD NSW 2067,745,2,1,1
 chatswood,118/14 Brown Street CHATSWOOD NSW 2067,725,2,2,1
-chatswood,305/58 Neridah Street CHATSWOOD NSW 2067,720,2,2,1
 chatswood,305/31 Bertram Street CHATSWOOD NSW 2067,695,2,2,1
 chatswood,Level 5  505/9 Railway Street CHATSWOOD NSW 2067,630,1,1,1
 chatswood,39/5-7 Sutherland Road CHATSWOOD NSW 2067,620,2,1,1
@@ -1214,6 +1214,7 @@ chatswood,801/438 Victoria Avenue CHATSWOOD NSW 2067,,2,2,1
 chatswood,1309/2B Help Street CHATSWOOD NSW 2067,740,2,2,1
 chatswood,Level 7  46/14 Brown Street CHATSWOOD NSW 2067,725,2,2,1
 chatswood,46/14 - 16 Freeman Road CHATSWOOD NSW 2067,,2,2,1
+chatswood,305/58 Neridah Street CHATSWOOD NSW 2067,720,2,2,1
 chatswood,A102/2A Help Street CHATSWOOD NSW 2067,,2,1,1
 chatswood,3/269 Victoria Ave CHATSWOOD NSW 2067,,2,2,1
 chatswood,2905/69 Albert Avenue CHATSWOOD NSW 2067,,1,1,1
@@ -1288,6 +1289,7 @@ chatswood,392 Penshurst Street CHATSWOOD NSW 2067,300,1,1,
 chatswood,282 & 284 Victoria Avenue CHATSWOOD NSW 2067,400,50,50,1
 chatswood,4G/3 Help Street CHATSWOOD NSW 2067,50,,,1
 chatswood,1 Cambridge Lane CHATSWOOD NSW 2067,160,,,1
+chatswood,2902/7 Railway Street CHATSWOOD NSW 2067,680,1,1,1
 chatswood,32/17 Septimus St CHATSWOOD NSW 2067,,3,2,2
 chatswood,10 Kooba Ave CHATSWOOD NSW 2067,1580,4,2,3
 chatswood,909/7 Railway Street CHATSWOOD NSW 2067,900,2,2,1
@@ -1358,7 +1360,6 @@ ashfield,1/23 King  Street ASHFIELD NSW 2131,540,2,1,1
 ashfield,2/19 A'beckett Avenue ASHFIELD NSW 2131,,2,1,
 ashfield,503/168 Liverpool Rd ASHFIELD NSW 2131,540,1,1,1
 ashfield,39/1 Brown Street ASHFIELD NSW 2131,530,1,1,
-ashfield,3/4 Murrell Street ASHFIELD NSW 2131,530,2,1,1
 ashfield,46 Queen street ASHFIELD NSW 2131,550,3,1,
 ashfield,1/ 157 Norton Street ASHFIELD NSW 2131,520,2,1,
 ashfield,4/99 Bland  Street ASHFIELD NSW 2131,520,2,1,1
@@ -1413,6 +1414,7 @@ ashfield,19/11 Church Street ASHFIELD NSW 2131,300,1,1,1
 ashfield,8/60 Victoria Street ASHFIELD NSW 2131,595,2,1,1
 ashfield,305/168 Liverpool Road ASHFIELD NSW 2131,570,2,1,1
 ashfield,102 Frederick Street ASHFIELD NSW 2131,550,2,1,1
+ashfield,3/4 Murrell Street ASHFIELD NSW 2131,530,2,1,1
 ashfield,2/49 Thomas Street ASHFIELD NSW 2131,415,1,1,1
 ashfield,18/8-10 Pembroke Street ASHFIELD NSW 2131,317,,1,
 ashfield,10/8 Pembroke ASHFIELD NSW 2131,285,,1,
@@ -1507,11 +1509,9 @@ sydney,50 Murray Street SYDNEY NSW 2000,1250,2,2,
 sydney,125/416 Pitt Street SYDNEY NSW 2000,1200,3,2,2
 sydney,4711/91-95 Liverpool Street SYDNEY NSW 2000,1060,2,2,1
 sydney,289-295 Sussex Street SYDNEY NSW 2000,900,2,2,1
-sydney,203/158-166 DAY STREET SYDNEY NSW 2000,800,2,2,
 sydney,123/336 Sussex Street SYDNEY NSW 2000,795,2,1,
 sydney,69/361 Kent Street SYDNEY NSW 2000,675,,1,
 sydney,Level 4  48/25 Market Street SYDNEY NSW 2000,650,1,1,
-sydney,1009/718  George Street SYDNEY NSW 2000,630,1,1,
 sydney,2311/91 LIVERPOOL STREET SYDNEY NSW 2000,590,,1,
 sydney,84/359-361 Pitt Street SYDNEY NSW 2000,450,,1,
 sydney,91  Liverpool St SYDNEY NSW 2000,90,,,1
@@ -1561,7 +1561,6 @@ sydney,805/129 Harrington Street SYDNEY NSW 2000,850,1,1,1
 sydney,SYDNEY NSW 2000,,1,1,
 sydney,25 Market Street SYDNEY NSW 2000,830,2,2,
 sydney,SYDNEY NSW 2000,,1,1,1
-sydney,608/168 Kent Street SYDNEY NSW 2000,800,1,1,1
 sydney,367/27 Park Street SYDNEY NSW 2000,800,2,1,1
 sydney,129 Harrington  Street SYDNEY NSW 2000,785,1,1,
 sydney,2313/101 Bathurst Street SYDNEY NSW 2000,780,1,1,1
@@ -1579,6 +1578,7 @@ sydney,2102/91-95 Liverpool St SYDNEY NSW 2000,670,1,1,
 sydney,1502/11 Alberta Street SYDNEY NSW 2000,,1,1,
 sydney,Level 16/352 Sussex Street SYDNEY NSW 2000,640,1,1,
 sydney,343/303 Castlereagh SYDNEY NSW 2000,640,1,1,1
+sydney,1009/718  George Street SYDNEY NSW 2000,630,1,1,
 sydney,"4101/343-357 ""Century Tower"" Pitt Street SYDNEY NSW 2000",620,1,1,
 sydney,298-304 Sussex Street SYDNEY NSW 2000,620,1,1,1
 sydney,L24/569 George St SYDNEY NSW 2000,620,1,1,
@@ -1615,6 +1615,8 @@ sydney,101 Barthurst st SYDNEY NSW 2000,1350,2,2,1
 sydney,Two bedroo/188 Day Street SYDNEY NSW 2000,,2,2,1
 sydney,2507/343 Pitt St SYDNEY NSW 2000,900,2,2,1
 sydney,743-755 George Street SYDNEY NSW 2000,820,2,2,1
+sydney,203/158-166 DAY STREET SYDNEY NSW 2000,800,2,2,
+sydney,608/168 Kent Street SYDNEY NSW 2000,800,1,1,1
 sydney,607/188 Day Street SYDNEY NSW 2000,700,1,1,
 sydney,SYDNEY NSW 2000,756,1,1,1
 sydney,607./188 Day Street SYDNEY NSW 2000,700,1,1,
@@ -1634,7 +1636,6 @@ eastwood,7/9-11 Threlfall Street EASTWOOD NSW 2122,600,3,2,2
 eastwood,4/30-32 Ethel Street EASTWOOD NSW 2122,515,2,1,1
 eastwood,208 North Road EASTWOOD NSW 2122,530,2,1,
 eastwood,46 Birchgrove Crescent EASTWOOD NSW 2122,1400,6,3,2
-eastwood,30 Northcott Avenue EASTWOOD NSW 2122,1000,5,3,2
 eastwood,4/22 Sheehan Street EASTWOOD NSW 2122,,2,2,1
 eastwood,25 Holway Street EASTWOOD NSW 2122,600,3,2,1
 eastwood,7/36 Lovell Road EASTWOOD NSW 2122,560,3,1,1
@@ -1687,17 +1688,16 @@ eastwood,9/594 Blaxland Rd EASTWOOD NSW 2122,340,1,1,1
 eastwood,Balaclava Rd EASTWOOD NSW 2122,340,1,1,1
 eastwood,38 Rowe St. EASTWOOD NSW 2122,250,1,1,
 eastwood,5/11 Ball Avenue EASTWOOD NSW 2122,440,2,1,
+eastwood,30 Northcott Avenue EASTWOOD NSW 2122,1000,5,3,2
 eastwood,Villa A/77-79 Terry Road EASTWOOD NSW 2122,595,3,2,2
 eastwood,9/93 Vimiera Road EASTWOOD NSW 2122,550,3,2,1
 eastwood,3/31-35 Ethel Street EASTWOOD NSW 2122,520,2,1,1
 eastwood,1/16 First Avenue EASTWOOD NSW 2122,510,2,1,1
-eastwood,2/56 Eastwood Avenue EASTWOOD NSW 2122,325,1,1,
 campsie,53 Cowper Street CAMPSIE NSW 2194,495,2,1,
 campsie,538 Canterbury  Road CAMPSIE NSW 2194,550,2,2,1
 campsie,301/13A Third Avenue CAMPSIE NSW 2194,600,2,1,2
 campsie,15/60-64 Second Avenue CAMPSIE NSW 2194,,2,1,1
 campsie,1/21 Hill  St CAMPSIE NSW 2194,420,2,1,1
-campsie,125 Ninth Ave CAMPSIE NSW 2194,750,3,2,1
 campsie,112/363 Beamish St CAMPSIE NSW 2194,720,3,2,2
 campsie,106/13-15 Anglo Road CAMPSIE NSW 2194,650,2,2,1
 campsie,21/20 Anglo Road CAMPSIE NSW 2194,650,2,2,1
@@ -1707,15 +1707,12 @@ campsie,14/45-47 Fifth Ave CAMPSIE NSW 2194,580,2,2,1
 campsie,115/363 Beamish Street CAMPSIE NSW 2194,560,2,2,1
 campsie,7/20-22 Anglo Road CAMPSIE NSW 2194,550,2,1,1
 campsie,L2/3 Sunbeam Street CAMPSIE NSW 2194,540,2,2,1
-campsie,L4/1 Victa Street CAMPSIE NSW 2194,530,2,1,1
 campsie,18/8-16 Eighth Avenue CAMPSIE NSW 2194,500,2,1,1
 campsie,1/14 Oswald St CAMPSIE NSW 2194,470,2,1,1
 campsie,5/8-16 Eighth Ave CAMPSIE NSW 2194,440,1,1,1
 campsie,5/57-59 Eighth Ave CAMPSIE NSW 2194,430,2,1,1
 campsie,5/46 McKern St CAMPSIE NSW 2194,420,1,1,2
-campsie,3/98 Clissold Parade CAMPSIE NSW 2194,400,2,1,1
 campsie,3/47 Bexley  Rd CAMPSIE NSW 2194,360,2,1,1
-campsie,2/5 Third Ave CAMPSIE NSW 2194,350,2,1,
 campsie,2/56 Mckern Street CAMPSIE NSW 2194,,3,2,1
 campsie,7/23 Campsie St CAMPSIE NSW 2194,410,2,1,1
 campsie,47 - 51 Claremont Street CAMPSIE NSW 2194,,2,1,1
@@ -1724,6 +1721,7 @@ campsie,55 Bexley Road CAMPSIE NSW 2194,900,4,3,1
 campsie,18 Troy Street CAMPSIE NSW 2194,770,5,2,
 campsie,125 Ninth Ave CAMPSIE NSW 2194,750,3,2,1
 campsie,2/50 Mckern Street CAMPSIE NSW 2194,750,3,2,
+campsie,125 Ninth Ave CAMPSIE NSW 2194,750,3,2,1
 campsie,3/18 Beamish Street CAMPSIE NSW 2194,720,4,2,2
 campsie,2/8 Victa Street CAMPSIE NSW 2194,695,3,2,2
 campsie,303/363 Beamish St CAMPSIE NSW 2194,680,3,2,1
@@ -1734,16 +1732,17 @@ campsie,21/11-13 Ninth Avenue CAMPSIE NSW 2194,650,2,2,1
 campsie,54 First Avenue CAMPSIE NSW 2194,605,3,1,1
 campsie,103A/96-98 Beamish Street CAMPSIE NSW 2194,600,3,2,1
 campsie,8/20-22 Anglo Road CAMPSIE NSW 2194,580,2,1,1
-campsie,15/22 Anglo Road CAMPSIE NSW 2194,590,2,2,1
 campsie,46/2-6 Messiter Street CAMPSIE NSW 2194,570,2,2,1
 campsie,13/45-47 Fifth Ave CAMPSIE NSW 2194,570,2,2,1
 campsie,31 Lincoln Street CAMPSIE NSW 2194,560,3,2,2
 campsie,103/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
 campsie,105/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
 campsie,538-546 Canterbury Road CAMPSIE NSW 2194,550,2,1,1
-campsie,301/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
 campsie,403/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
 campsie,108/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
+campsie,301/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
+campsie,303/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
+campsie,408/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
 campsie,502 Canterbury Rd CAMPSIE NSW 2194,,2,2,1
 campsie,102/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
 campsie,504D/5-11 Sixth Avenue CAMPSIE NSW 2194,550,2,2,1
@@ -1776,6 +1775,7 @@ campsie,1/7 North Parade CAMPSIE NSW 2194,420,2,1,1
 campsie,4/41 Fletcher Street CAMPSIE NSW 2194,420,2,1,1
 campsie,7/28 Mckern Street CAMPSIE NSW 2194,420,2,1,1
 campsie,5/27 Third Avenue CAMPSIE NSW 2194,410,2,1,1
+campsie,3/98 Clissold Parade CAMPSIE NSW 2194,400,2,1,1
 campsie,9/47 Loftus St CAMPSIE NSW 2194,400,2,1,1
 campsie,7/60-64 Second Avenue CAMPSIE NSW 2194,,2,1,2
 campsie,3/41 South Pde CAMPSIE NSW 2194,400,2,1,1
@@ -1788,6 +1788,7 @@ campsie,2/43 Claremont St CAMPSIE NSW 2194,380,2,1,1
 campsie,6/6 Beaumont Street CAMPSIE NSW 2194,375,2,1,1
 campsie,3/49 Beaumont Street CAMPSIE NSW 2194,360,2,1,1
 campsie,10/39 Fourth Avenue CAMPSIE NSW 2194,350,1,1,1
+campsie,2/5 Third Ave CAMPSIE NSW 2194,350,2,1,
 campsie,5/118 Evaline St CAMPSIE NSW 2194,340,1,1,
 campsie,8/1 Perry St CAMPSIE NSW 2194,340,1,1,1
 campsie,8/142 Brighton Ave CAMPSIE NSW 2194,335,1,1,1
@@ -1800,9 +1801,9 @@ campsie,38 Clissold Parade CAMPSIE NSW 2194,140,,,
 campsie,2/55 Gould Street CAMPSIE NSW 2194,530,3,1,1
 campsie,47 Beaumont St CAMPSIE NSW 2194,435,2,1,1
 campsie,CAMPSIE NSW 2194,600,2,2,1
+campsie,15/22 Anglo Road CAMPSIE NSW 2194,590,2,2,1
 campsie,24/502-518 Canterbury Road CAMPSIE NSW 2194,,2,2,1
-campsie,303/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
-campsie,408/538-546 Canterbury Rd (Entrance from Elizabeth St) CAMPSIE NSW 2194,550,2,2,1
+campsie,L4/1 Victa Street CAMPSIE NSW 2194,530,2,1,1
 campsie,1/51 Beaumont St CAMPSIE NSW 2194,,2,1,
 ultimo,P803/287 Pyrmont Street ULTIMO NSW 2007,685,1,1,1
 ultimo,706/78 Mountain Street ULTIMO NSW 2007,595,1,1,1
@@ -1876,7 +1877,6 @@ hurstville,14/6-12 Carrington Ave HURSTVILLE NSW 2220,535,2,2,1
 hurstville,C809/460 Forest Rd HURSTVILLE NSW 2220,520,1,1,1
 hurstville,2/16 Patrick Street HURSTVILLE NSW 2220,520,2,1,2
 hurstville,13/15-19 Treacy Street HURSTVILLE NSW 2220,,2,1,1
-hurstville,4/89 Dora Street HURSTVILLE NSW 2220,510,2,2,1
 hurstville,26/6-12 Carrington Ave HURSTVILLE NSW 2220,,2,2,1
 hurstville,18/15-19 Treacy Street HURSTVILLE NSW 2220,,2,1,1
 hurstville,Shop 9B/45 Forest Rd HURSTVILLE NSW 2220,495,,1,1
@@ -1889,7 +1889,6 @@ hurstville,Level 2/77 Queens Rd HURSTVILLE NSW 2220,450,2,1,1
 hurstville,53/12-22 Dora Street HURSTVILLE NSW 2220,450,1,1,1
 hurstville,8/89 Dora Street HURSTVILLE NSW 2220,440,2,1,1
 hurstville,4/12-22 Dora Street HURSTVILLE NSW 2220,440,1,1,1
-hurstville,85/564-576 Railway Parade HURSTVILLE NSW 2220,430,1,1,1
 hurstville,65/12 Dora Street HURSTVILLE NSW 2220,420,1,1,1
 hurstville,Hudson St HURSTVILLE NSW 2220,420,1,1,
 hurstville,At Dora Street HURSTVILLE NSW 2220,400,2,1,
@@ -1903,6 +1902,7 @@ hurstville,52/313 Forest Road HURSTVILLE NSW 2220,,2,2,1
 hurstville,23 St Georges Parade HURSTVILLE NSW 2220,500,2,1,1
 hurstville,D306/106 Queens Road HURSTVILLE NSW 2220,580,2,2,1
 hurstville,HURSTVILLE NSW 2220,,2,2,2
+hurstville,4/89 Dora Street HURSTVILLE NSW 2220,510,2,2,1
 hurstville,A103/18 Woodville St HURSTVILLE NSW 2220,470,1,1,1
 hurstville,A02.01/18 Woodville St HURSTVILLE NSW 2220,470,1,1,1
 mascot,158 King Street MASCOT NSW 2020,875,3,1,1
@@ -1928,20 +1928,18 @@ mascot,1 Gearin Alley MASCOT NSW 2020,780,2,2,1
 mascot,121/22 Tunbridge Street MASCOT NSW 2020,590,2,1,1
 mascot,2/131 King Street MASCOT NSW 2020,400,1,1,
 mascot,1 Muller Lane MASCOT NSW 2020,690,2,1,1
-mascot,108/581 Gardeners Road MASCOT NSW 2020,600,1,1,1
+mascot,108/581 Gardeners Road MASCOT NSW 2020,595,1,1,1
 mascot,581-587 Gardeners Road MASCOT NSW 2020,1100,3,2,2
 mascot,581-587 Gardeners Road MASCOT NSW 2020,995,3,2,2
 mascot,581-587 Gardeners Road MASCOT NSW 2020,995,3,2,2
 mascot,609/581 Gardeners Road MASCOT NSW 2020,930,3,2,2
 mascot,404/581 Gardeners Road MASCOT NSW 2020,900,3,2,2
-mascot,301/581 Gardeners  Street MASCOT NSW 2020,900,3,2,2
 mascot,905/39 Kent Road MASCOT NSW 2020,810,2,2,2
 mascot,613/39 Kent Road MASCOT NSW 2020,780,2,2,2
 mascot,581-587 Gardeners Road MASCOT NSW 2020,740,2,2,1
 mascot,67/1 - 5 Bourke St MASCOT NSW 2020,740,2,2,2
 mascot,581-587 Gardeners Road MASCOT NSW 2020,740,2,2,1
 mascot,2 Malcolm Street MASCOT NSW 2020,700,3,1,
-mascot,202/214-220 COWARD STREET MASCOT NSW 2020,660,2,2,2
 mascot,702c/8 Bourke Street MASCOT NSW 2020,620,1,1,1
 mascot,581 Gardeners  Road MASCOT NSW 2020,600,1,1,1
 mascot,503/39 Kent Road MASCOT NSW 2020,580,1,1,1
@@ -1954,6 +1952,7 @@ mascot,7-9 Kent Street MASCOT NSW 2020,1000,3,2,2
 mascot,G02/1 Church Avenue MASCOT NSW 2020,1000,3,2,2
 mascot,T/18 Macintosh Street MASCOT NSW 2020,,4,3,2
 mascot,221/635 Gardeners Road MASCOT NSW 2020,1000,3,2,2
+mascot,301/581 Gardeners  Street MASCOT NSW 2020,900,3,2,2
 mascot,1302/39 Kent Road MASCOT NSW 2020,,2,2,2
 mascot,701/208 Coward St MASCOT NSW 2020,,2,2,2
 mascot,1271-1277 Botany Road MASCOT NSW 2020,820,2,2,2
@@ -1982,6 +1981,7 @@ mascot,2 Muller Lane MASCOT NSW 2020,,2,2,1
 mascot,1026/111 High Street MASCOT NSW 2020,720,2,2,2
 mascot,8/66-70 Miles Street MASCOT NSW 2020,700,2,2,2
 mascot,811/39 Kent Road MASCOT NSW 2020,680,1,1,1
+mascot,202/214-220 COWARD STREET MASCOT NSW 2020,660,2,2,2
 mascot,504/39 Kent Road MASCOT NSW 2020,,1,1,1
 mascot,106/149 O'Riordan Street MASCOT NSW 2020,,1,1,1
 mascot,137/3-9 Church Ave MASCOT NSW 2020,630,1,1,1
@@ -1993,7 +1993,6 @@ mascot,412/9 John st MASCOT NSW 2020,600,1,1,1
 mascot,16/228 Coward St MASCOT NSW 2020,,1,1,1
 mascot,9/629 Gardeners Road MASCOT NSW 2020,585,1,1,1
 mascot,63/22 Tunbridge Street MASCOT NSW 2020,580,2,1,1
-mascot,4/183 King Street MASCOT NSW 2020,550,2,1,1
 mascot,21/919 Botany Road MASCOT NSW 2020,480,2,1,1
 mascot,10/2 MacIntosh Street MASCOT NSW 2020,460,2,1,1
 mascot,1/3 Wentworth Ave MASCOT NSW 2020,325,1,1,1
@@ -2010,4 +2009,5 @@ mascot,504/7 John Street MASCOT NSW 2020,,2,2,2
 mascot,MASCOT NSW 2020,670,3,1,
 mascot,104A/9 Kent Road MASCOT NSW 2020,650,1,1,1
 mascot,39 Kent Road MASCOT NSW 2020,,1,1,1
+mascot,4/183 King Street MASCOT NSW 2020,550,2,1,1
 mascot,11A Tramway Street MASCOT NSW 2020,350,1,1,
